@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+
+require "bundler/setup"
+require "livecoding"
+
+require "pry"
+require "pry-reload"
+Pry.start
